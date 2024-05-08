@@ -6,6 +6,6 @@ RAG, or Retrieval-Augmented Generation, stands as a groundbreaking advancement i
 **For the development of RAG, there are 3 important steps:**<br>
 1. Chunking: Split your data be it a text, code, or documents. The chunk size matters!
 2. Embeddings: Embeddings are the numerical representations of the data. Store the embeddings in Fiass or ChromaDB. Here I have used Fiass Database.
-3. Model: Choose a LLM model and pass your data!
+3. Model: Choose a LLM model and pass your data.<br>
 Thats it! Congratulations! You have your own RAG!
 
